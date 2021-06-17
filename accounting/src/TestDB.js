@@ -235,11 +235,11 @@ export default class TestDb extends Component {
                             ],
                             lessonInfo: [
                                 'Mineyev Alexey Vitalyevich',
-                                'Running'
+                                'Swimming'
                             ],
                             place: [
                                 'Manege',
-                                'Zal'
+                                'Pull'
                             ],
                             homeTaskInfo: []
                         },
@@ -303,11 +303,11 @@ export default class TestDb extends Component {
                             ],
                             lessonInfo: [
                                 'Mineyev Alexey Vitalyevich',
-                                'Running'
+                                'Swimming'
                             ],
                             place: [
                                 'Manege',
-                                'Zal'
+                                'Pull'
                             ],
                             homeTaskInfo: []
                         },
